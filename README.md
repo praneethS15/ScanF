@@ -2,7 +2,7 @@
 
 **Scan-F** is a biometric attendance system that reduces unwanted inter-human contact. It is built with the COVID-19 pandemic in mind, and it provides a safe, efficient way to record attendance. 
 
-## What's new in our system?:
+## What's new in our system?
 - Existing systems use a single fingerprint sensor, mounted on a wall to record the attendance. This single sensor will be used by hundreds of people and it is not safe considering the pandemic situation.
 - Our solution is **inbuilt fingerprint sensor in mobile phones**. These fingerprint sensors can be used to record individual person’s attendance. 
 - By this method, every person will have their own sensor for giving their attendance. In other words, a person's fingerprint sensor will not be used by another for recording attendance
